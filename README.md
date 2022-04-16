@@ -3,11 +3,11 @@ Easy intuitive utility-first CSS framework for rapidly building custom user inte
 
 ### Status
 
-[![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)](https://marshmellowcss-slack.herokuapp.com/)
-[![Build Status](https://img.shields.io/github/workflow/status/twbs/marshmellow/JS%20Tests/main?label=JS%20Tests&logo=github)](https://github.com/twbs/marshmellow/actions?query=workflow%3AJS+Tests+branch%3Amain)
-[![npm version](https://img.shields.io/npm/v/bootstrap)](https://www.npmjs.com/package/bootstrap)
-[![Backers on Open Collective](https://img.shields.io/opencollective/backers/marshmellow)](#backers)
-[![Sponsors on Open Collective](https://img.shields.io/opencollective/sponsors/marshmellow)](#sponsors)
+[![Slack](https://marshmellowcss-slack.herokuapp.com/badge.svg)](https://marshmellowcss-slack.herokuapp.com/)
+[![Build Status](https://img.shields.io/github/workflow/status/twbs/marshmellow/JS%20Tests/main?label=JS%20Tests&logo=github)](https://github.com/twbs/marshmellowcss/actions?query=workflow%3AJS+Tests+branch%3Amain)
+[![npm version](https://img.shields.io/npm/v/marshmellowcss)](https://www.npmjs.com/package/marshmellowcss)
+[![Backers on Open Collective](https://img.shields.io/opencollective/backers/marshmellowcss)](#backers)
+[![Sponsors on Open Collective](https://img.shields.io/opencollective/sponsors/marshmellowcss)](#sponsors)
 
 <br>
 <a href="https://getmarshmellowcss.com/docs/5.1/"><strong>Explore Marshmellow docs »</strong></a>
@@ -22,7 +22,7 @@ Easy intuitive utility-first CSS framework for rapidly building custom user inte
 Several quick start options are available:
 
 - [Download the latest release](https://github.com/marshmellowcss/marshmellowcss/archive/v5.1.3.zip)
-- Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
+- Clone the repo: `git clone https://github.com/marshmellowcss/marshmellowcss.git`
 - Install with [npm](https://www.npmjs.com/): `npm install marshmellowcss`
 - Install with [yarn](https://yarnpkg.com/): `yarn add marshmellowcss`
 - Install with [Composer](https://getcomposer.org/): `composer require marshmellowcss/marshmellowcss:5.1.3`
@@ -50,7 +50,7 @@ module.exports = {
 ```
 
 #### 3. Add the Marshmellow directives to your CSS
-> Add the `@tailwind` directives for each of Marshmellow's layers to your main CSS file.
+> Add the `@marshmellow` directives for each of Marshmellow's layers to your main CSS file.
 
 ```css
 #src/input.css
