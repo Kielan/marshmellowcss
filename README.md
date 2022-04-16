@@ -21,12 +21,11 @@ Easy intuitive utility-first CSS framework for rapidly building custom user inte
 
 Several quick start options are available:
 
-- [Download the latest release](https://github.com/twbs/bootstrap/archive/v5.1.3.zip)
+- [Download the latest release](https://github.com/marshmellowcss/marshmellowcss/archive/v5.1.3.zip)
 - Clone the repo: `git clone https://github.com/twbs/bootstrap.git`
-- Install with [npm](https://www.npmjs.com/): `npm install bootstrap`
-- Install with [yarn](https://yarnpkg.com/): `yarn add bootstrap`
-- Install with [Composer](https://getcomposer.org/): `composer require twbs/bootstrap:5.1.3`
-- Install with [NuGet](https://www.nuget.org/): CSS: `Install-Package bootstrap` Sass: `Install-Package bootstrap.sass`
+- Install with [npm](https://www.npmjs.com/): `npm install marshmellowcss`
+- Install with [yarn](https://yarnpkg.com/): `yarn add marshmellowcss`
+- Install with [Composer](https://getcomposer.org/): `composer require marshmellowcss/marshmellowcss:5.1.3`
 
 #### 1. Install Marshmellow CSS
 > Install marshmellow via npm, and create your marshmellow.config.js file.
@@ -40,7 +39,7 @@ Several quick start options are available:
 > Add the paths to all of your template files in your `mellow.config.js` file (or `marshmellow.config.js` file. Allows unused rules to be removed from dist at compile.)
 
 ```js
-//tailwind.config.js
+//mellow.config.js
 module.exports = {
   content: ["./src/**/*.{html,js}"],
   theme: {
@@ -55,9 +54,9 @@ module.exports = {
 
 ```css
 #src/input.css
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+@marshmellow base;
+@marshmellow components;
+@marshmellow utilities;
 ```
 
 #### 4. Start the Marshmellow CLI build process
@@ -75,7 +74,7 @@ module.exports = {
 #src/index.html
 Add your compiled CSS
 ```
-Read the [Getting started page](https://getbootstrap.com/docs/5.1/getting-started/introduction/) for information on the framework contents, templates, examples, and more.
+Read the [Getting started page](https://getmarshmellowcss.com/docs/5.1/getting-started/introduction/) for information on the framework contents, templates, examples, and more.
 
 ## **What to read next
 Get familiar with some of the core concepts that make Tailwind CSS different from writing traditional CSS.
