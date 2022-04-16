@@ -14,11 +14,11 @@ Easy intuitive utility-first CSS framework for rapidly building custom user inte
 <br>
 
 ### Table of contents
-
+---
 - [Quick start](#quick-start)
 
 ### Quick start
-
+---
 Several quick start options are available:
 
 - [Download the latest release](https://github.com/marshmellowcss/marshmellowcss/archive/v5.1.3.zip)
@@ -77,6 +77,7 @@ Add your compiled CSS
 Read the [Getting started page](https://getmarshmellowcss.com/docs/5.1/getting-started/introduction/) for information on the framework contents, templates, examples, and more.
 
 ### What to read next
+---
 Get familiar with some of the core concepts that make Marshmellow CSS different from writing traditional CSS.
 
 #### - [Utility-First fundamentals](https://www.npmjs.com/)
@@ -86,7 +87,7 @@ Get familiar with some of the core concepts that make Marshmellow CSS different 
 
 
 ### Community
-
+---
 For help, discussion about best practices, or any other conversation that would benefit from being searchable:
 
 [Discuss Marshmellow CSS on GitHub](https://github.com/marshmellow/marshmellow/discussions)
