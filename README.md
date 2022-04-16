@@ -83,7 +83,7 @@ Get familiar with some of the core concepts that make Tailwind CSS different fro
 > ~Using a utility-first workflow to build complex components from a contrained set of primitive utilies~
 #### **- [Customizing the Framework](https://www.npmjs.com/)
 > ~Customize the framework to match your brand and extend it with your own custom styles~
- 
+
 
 ## Community
 
@@ -94,4 +94,3 @@ For help, discussion about best practices, or any other conversation that would 
 For casual chit-chat with others using the framework:
 
 [Join the Marshmellow CSS Discord Server](https://discord.gg/7NF8GNe)
-
