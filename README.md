@@ -28,12 +28,12 @@ Several quick start options are available:
 - Install with [Composer](https://getcomposer.org/): `composer require twbs/bootstrap:5.1.3`
 - Install with [NuGet](https://www.nuget.org/): CSS: `Install-Package bootstrap` Sass: `Install-Package bootstrap.sass`
 
-#### 1. Install Tailwind CSS
-> Install tailwindcss via npm, and create your tailwind.config.js file.
+#### 1. Install Marshmellow CSS
+> Install marshmellow via npm, and create your marshmellow.config.js file.
 ```console
 #Terminal
-> npm install -D tailwindcss
-> npx tailwindcss init
+> npm install -D marshmellow
+> npx marshmellow init
 ```
 
 #### 2. Configure your template paths
@@ -50,7 +50,7 @@ module.exports = {
 }
 ```
 
-#### 3. Add the Tailwind directives to your CSS
+#### 3. Add the Marshmellow directives to your CSS
 > Add the `@tailwind` directives for each of Tailwind's layers to your main CSS file.
 
 ```css
