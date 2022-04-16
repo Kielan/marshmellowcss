@@ -14,11 +14,11 @@ Easy intuitive utility-first CSS framework for rapidly building custom user inte
 <br>
 
 ### Table of contents
-<hr style="border-bottom:1px solid #373e47"> </hr>
+#
 - [Quick start](#quick-start)
 
 ### Quick start
-<hr style="border-bottom:1px solid #373e47"> </hr>
+#
 Several quick start options are available:
 
 - [Download the latest release](https://github.com/marshmellowcss/marshmellowcss/archive/v5.1.3.zip)
