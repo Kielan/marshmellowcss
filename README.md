@@ -14,6 +14,8 @@ Easy intuitive utility-first CSS framework for rapidly building custom user inte
 
 ## Table of contents
 - [Quick start](#quick-start)
+- [What to read next](#what-to-read-next)
+- [Community](#community)
 
 ## Quick start
 Several quick start options are available:
