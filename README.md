@@ -2,7 +2,6 @@
 Easy intuitive utility-first CSS framework for rapidly building custom user interfaces.
 
 ### Status
-
 [![Slack](https://marshmellowcss-slack.herokuapp.com/badge.svg)](https://marshmellowcss-slack.herokuapp.com/)
 [![Build Status](https://img.shields.io/github/workflow/status/twbs/marshmellow/JS%20Tests/main?label=JS%20Tests&logo=github)](https://github.com/twbs/marshmellowcss/actions?query=workflow%3AJS+Tests+branch%3Amain)
 [![npm version](https://img.shields.io/npm/v/marshmellowcss)](https://www.npmjs.com/package/marshmellowcss)
