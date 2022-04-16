@@ -1,7 +1,7 @@
-# marshmellowcss
+## marshmellowcss
 Easy intuitive utility-first CSS framework for rapidly building custom user interfaces.
 
-## Status
+### Status
 
 [![Slack](https://bootstrap-slack.herokuapp.com/badge.svg)](https://marshmellowcss-slack.herokuapp.com/)
 [![Build Status](https://img.shields.io/github/workflow/status/twbs/marshmellow/JS%20Tests/main?label=JS%20Tests&logo=github)](https://github.com/twbs/marshmellow/actions?query=workflow%3AJS+Tests+branch%3Amain)
@@ -13,11 +13,11 @@ Easy intuitive utility-first CSS framework for rapidly building custom user inte
 <a href="https://getmarshmellowcss.com/docs/5.1/"><strong>Explore Marshmellow docs »</strong></a>
 <br>
 
-## Table of contents
+### Table of contents
 
 - [Quick start](#quick-start)
 
-## Quick start
+### Quick start
 
 Several quick start options are available:
 
@@ -50,7 +50,7 @@ module.exports = {
 ```
 
 #### 3. Add the Marshmellow directives to your CSS
-> Add the `@tailwind` directives for each of Tailwind's layers to your main CSS file.
+> Add the `@tailwind` directives for each of Marshmellow's layers to your main CSS file.
 
 ```css
 #src/input.css
@@ -76,16 +76,16 @@ Add your compiled CSS
 ```
 Read the [Getting started page](https://getmarshmellowcss.com/docs/5.1/getting-started/introduction/) for information on the framework contents, templates, examples, and more.
 
-## **What to read next
-Get familiar with some of the core concepts that make Tailwind CSS different from writing traditional CSS.
+### What to read next
+Get familiar with some of the core concepts that make Marshmellow CSS different from writing traditional CSS.
 
-#### **- [Utility-First fundamentals](https://www.npmjs.com/)
-> ~Using a utility-first workflow to build complex components from a contrained set of primitive utilies~
-#### **- [Customizing the Framework](https://www.npmjs.com/)
-> ~Customize the framework to match your brand and extend it with your own custom styles~
+#### - [Utility-First fundamentals](https://www.npmjs.com/)
+> Using a utility-first workflow to build complex components from a contrained set of primitive utilies
+#### - [Customizing the Framework](https://www.npmjs.com/)
+> Customize the framework to match your brand and extend it with your own custom styles
 
 
-## Community
+### Community
 
 For help, discussion about best practices, or any other conversation that would benefit from being searchable:
 
